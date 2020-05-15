@@ -1,6 +1,6 @@
 #### 方法文档
 ```
-npm install musee --save
+npm install musee-zy --save
 ```
 
 #### 1.env
