@@ -27,6 +27,5 @@ env.isiOS
 last([1, 2, 3])
 // => 3
 
-```
-
 new  commit from dev
+
